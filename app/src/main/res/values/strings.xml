@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Pixarch</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_fragment">Home Fragment</string>
+    <string name="log_out">Log-Out</string>
+    <string name="information">Information</string>
+    <string name="settings">Settings</string>
+    <string name="homefragment">Home Fragment</string>
+    <string name="navigation_drawer_open" />
+    <string name="navigation_drawer_close" />
+    <string name="signout_fragment">signout fragment</string>
+    <string name="pixinfo">PixArch studio is a 3d visualization company based in Surat, Gujarat(India), yet we have clients over the country and serving internationally. We are been working professionally since 2016 and we have been improvising and developing our skills and Quality ever since. Our team consists of highly trained and creative Designers and 3D Artists. We also provide educational tutorials and quality learning for those who are planning to join visualizing Direction. We teach several Software teaching for students who are pursuing architecture, interior designing, landscape designing and many similar fields. Feel FREE to give us a call anytime!</string>
+    <string name="follow_us_on">Follow us on</string>
+    <string name="follow_us_onollow" />
+    <string name="contact_us">Contact us</string>
+    <string name="courses">Courses:</string>
+</resources>

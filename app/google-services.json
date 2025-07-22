@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "14823169601",
+    "project_id": "pixarch-studio-new",
+    "storage_bucket": "pixarch-studio-new.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14823169601:android:209281c500aaa8960970c0",
+        "android_client_info": {
+          "package_name": "com.example.pixarch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14823169601-pvpsvqfnatgpgruaoavup1lk44rbefc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeqzGryiHeuWUvLlwJYdIJizYfjfvAfqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14823169601-pvpsvqfnatgpgruaoavup1lk44rbefc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

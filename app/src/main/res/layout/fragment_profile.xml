@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    tools:context=".fragments.profile_fragment">
+
+
+    <com.google.android.material.imageview.ShapeableImageView
+        android:id="@+id/fpi1"
+        android:layout_width="201dp"
+        android:layout_height="201dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="104dp"
+        android:layout_marginTop="56dp"
+        android:layout_marginEnd="106dp"
+        android:layout_marginBottom="564dp"
+        android:background="@color/orange"
+        android:clickable="true"
+        android:src="@drawable/p" />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fpb"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="221dp"
+        android:layout_marginEnd="89dp"
+        android:layout_marginBottom="544dp"
+        android:clickable="true"
+        android:importantForAccessibility="no"
+        android:src="@drawable/baseline_photo_camera_24" />
+
+    <TextView
+        android:id="@+id/sutv2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="458dp"
+        android:padding="5dp"
+        android:text="Name:"
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/suet1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="20dp"
+        android:background="@drawable/signupetbg"
+        android:ems="10"
+        android:textColor="@color/black"
+        android:hint="Enter Name"
+        android:textColorHint="@color/black"
+        android:inputType="text"
+        android:padding="15dp"
+        android:text=""
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="144dp"
+        android:layout_height="65dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="141dp"
+        android:layout_marginBottom="155dp"
+        android:backgroundTint="@color/orange"
+        android:text="Save >"
+        android:textColor="@color/white" />
+
+
+</RelativeLayout>
+
+
